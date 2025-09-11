@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Derek Li</h1>
 <h3 align="center">I'm a current Sophomore at Columbia University studying Computer Science.</h3>
 
-## - 🔭 I’m currently working on [Nutrition Analytics](https://github.com/DerekLi06/Nutrition-Tracker)
-## - 🌱 I’m currently learning **Spring Boot, Typescript, PostgreSQL**
-## - 📫 How to reach me **derekli0987@gmail.com**
+### - 🔭 I’m currently working on [Nutrition Analytics](https://github.com/DerekLi06/Nutrition-Tracker)
+### - 🌱 I’m currently learning **Spring Boot, Typescript, PostgreSQL**
+### - 📫 How to reach me **derekli0987@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
